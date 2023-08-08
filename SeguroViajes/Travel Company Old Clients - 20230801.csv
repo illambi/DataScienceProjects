@@ -1,0 +1,683 @@
+Age,Employment Type,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad,TravelInsurance
+25,Government Sector,Yes,750478,5,0,Yes,No,0
+25,Government Sector,Yes,750121,3,0,No,No,0
+25,Government Sector,Yes,750419,4,0,No,No,1
+25,Private Sector/Self Employed,No,1150394,4,0,No,No,0
+25,Private Sector/Self Employed,No,1150109,5,0,No,No,0
+25,Private Sector/Self Employed,No,120307,8,0,No,No,0
+25,Private Sector/Self Employed,No,1150371,3,0,No,No,0
+25,Private Sector/Self Employed,No,1150144,4,0,No,No,0
+25,Private Sector/Self Employed,No,1150474,4,0,No,No,1
+25,Private Sector/Self Employed,No,1150224,5,0,No,No,1
+25,Private Sector/Self Employed,No,1150271,3,1,No,No,0
+25,Private Sector/Self Employed,No,1150412,5,1,No,No,1
+25,Private Sector/Self Employed,No,1150458,5,1,Yes,No,0
+25,Private Sector/Self Employed,No,1150335,4,0,No,No,0
+25,Private Sector/Self Employed,No,1150421,5,1,No,No,0
+25,Private Sector/Self Employed,No,1150451,6,0,No,No,1
+25,Private Sector/Self Employed,No,1350445,4,0,No,Yes,1
+25,Private Sector/Self Employed,No,1350424,6,0,No,Yes,1
+25,Private Sector/Self Employed,No,1700199,5,1,Yes,No,1
+25,Private Sector/Self Employed,No,1700121,3,0,No,No,1
+25,Private Sector/Self Employed,No,1700365,3,1,Yes,No,0
+25,Private Sector/Self Employed,No,1700187,4,0,Yes,No,1
+25,Private Sector/Self Employed,No,1750351,6,0,Yes,No,1
+25,Private Sector/Self Employed,No,1700107,3,1,Yes,No,0
+25,Private Sector/Self Employed,No,1700407,4,0,Yes,No,1
+25,Private Sector/Self Employed,No,1700184,3,0,Yes,No,1
+25,Private Sector/Self Employed,No,600184,5,0,Yes,No,0
+25,Private Sector/Self Employed,No,600486,4,0,Yes,No,0
+25,Private Sector/Self Employed,No,600495,6,0,No,No,0
+25,Private Sector/Self Employed,Yes,1350333,4,0,No,Yes,1
+25,Private Sector/Self Employed,Yes,1400323,7,0,Yes,Yes,1
+25,Private Sector/Self Employed,Yes,1400251,3,1,Yes,Yes,1
+25,Private Sector/Self Employed,Yes,1400200,4,0,No,Yes,1
+25,Private Sector/Self Employed,Yes,1400423,4,0,No,Yes,1
+25,Private Sector/Self Employed,Yes,1400267,3,0,No,Yes,0
+25,Private Sector/Self Employed,Yes,1400205,7,0,Yes,Yes,1
+25,Private Sector/Self Employed,Yes,1400158,8,0,No,Yes,1
+25,Private Sector/Self Employed,Yes,1400298,5,0,No,Yes,1
+25,Private Sector/Self Employed,Yes,1400281,5,0,Yes,Yes,1
+25,Private Sector/Self Employed,Yes,1400305,9,1,No,Yes,1
+25,Private Sector/Self Employed,Yes,1700424,2,1,Yes,No,1
+25,Private Sector/Self Employed,Yes,1700108,4,1,Yes,No,1
+25,Private Sector/Self Employed,Yes,1700164,3,0,Yes,No,1
+25,Private Sector/Self Employed,Yes,1700223,5,0,Yes,No,1
+25,Private Sector/Self Employed,Yes,1700261,5,1,Yes,No,1
+25,Private Sector/Self Employed,Yes,1700414,4,0,Yes,No,1
+25,Private Sector/Self Employed,Yes,1750118,4,0,No,Yes,1
+25,Private Sector/Self Employed,Yes,1800352,7,1,Yes,No,1
+25,Private Sector/Self Employed,Yes,500234,5,0,No,No,0
+26,Government Sector,Yes,1450106,3,0,Yes,Yes,1
+26,Government Sector,Yes,550446,5,0,No,No,0
+26,Government Sector,Yes,500379,6,1,No,No,0
+26,Government Sector,Yes,500131,4,0,No,No,0
+26,Government Sector,Yes,500124,5,0,No,No,0
+26,Private Sector/Self Employed,Yes,1250233,4,0,No,No,0
+26,Private Sector/Self Employed,Yes,1250483,6,1,No,No,0
+26,Private Sector/Self Employed,Yes,1250295,5,0,No,No,0
+26,Private Sector/Self Employed,Yes,1250123,3,0,No,No,0
+26,Private Sector/Self Employed,Yes,1250364,4,1,No,Yes,0
+26,Private Sector/Self Employed,Yes,1300276,3,0,No,No,0
+26,Private Sector/Self Employed,Yes,1300181,4,1,No,Yes,0
+26,Private Sector/Self Employed,Yes,1300341,4,1,No,No,0
+26,Private Sector/Self Employed,Yes,1300435,4,0,No,No,1
+26,Private Sector/Self Employed,Yes,1300427,7,0,No,No,1
+26,Private Sector/Self Employed,Yes,1300457,4,0,No,No,0
+26,Private Sector/Self Employed,Yes,1450265,5,0,No,Yes,1
+26,Private Sector/Self Employed,Yes,1400349,6,0,No,Yes,1
+26,Private Sector/Self Employed,Yes,1450130,4,0,No,Yes,1
+26,Private Sector/Self Employed,Yes,1550417,3,0,No,Yes,1
+26,Private Sector/Self Employed,Yes,1400230,7,1,No,Yes,1
+26,Private Sector/Self Employed,Yes,1400450,7,0,No,Yes,1
+26,Private Sector/Self Employed,Yes,1400484,3,1,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1400222,5,0,No,Yes,1
+26,Private Sector/Self Employed,Yes,1400478,5,0,Yes,Yes,0
+26,Private Sector/Self Employed,Yes,1400455,4,1,No,Yes,1
+26,Private Sector/Self Employed,Yes,1400258,5,0,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1400121,4,0,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1400128,5,0,No,Yes,1
+26,Private Sector/Self Employed,Yes,1400169,4,1,No,Yes,1
+26,Private Sector/Self Employed,Yes,1500463,7,0,Yes,Yes,0
+26,Private Sector/Self Employed,Yes,1500208,5,1,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1500382,5,1,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1500181,4,0,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1500379,3,0,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1500143,5,0,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1500367,2,1,Yes,Yes,1
+26,Private Sector/Self Employed,Yes,1750304,4,0,No,No,0
+26,Private Sector/Self Employed,Yes,450254,5,1,No,No,1
+26,Private Sector/Self Employed,Yes,500448,3,0,No,No,0
+26,Private Sector/Self Employed,Yes,500166,9,0,No,No,0
+26,Private Sector/Self Employed,Yes,500346,6,0,No,No,0
+26,Private Sector/Self Employed,Yes,600377,3,0,Yes,No,0
+26,Private Sector/Self Employed,Yes,600121,5,1,No,No,0
+26,Private Sector/Self Employed,Yes,600303,4,0,Yes,No,0
+26,Private Sector/Self Employed,Yes,600191,6,1,No,No,0
+26,Private Sector/Self Employed,Yes,600137,7,0,No,No,0
+26,Private Sector/Self Employed,Yes,600329,4,0,Yes,No,0
+26,Private Sector/Self Employed,Yes,750451,6,0,No,No,0
+26,Private Sector/Self Employed,Yes,750232,6,0,No,No,0
+26,Private Sector/Self Employed,Yes,750311,5,0,No,No,0
+26,Private Sector/Self Employed,Yes,750252,3,1,No,No,0
+26,Private Sector/Self Employed,Yes,750345,4,1,No,No,0
+27,Government Sector,Yes,1050397,2,1,No,No,0
+27,Government Sector,Yes,1150244,3,0,No,No,0
+27,Government Sector,Yes,1050238,6,1,No,No,0
+27,Government Sector,Yes,1050387,3,0,No,No,0
+27,Government Sector,Yes,1050498,3,0,Yes,No,1
+27,Government Sector,Yes,1050314,4,0,No,No,0
+27,Government Sector,Yes,1050152,4,0,No,No,1
+27,Government Sector,Yes,500247,3,0,No,No,1
+27,Government Sector,Yes,500284,6,0,No,No,0
+27,Government Sector,Yes,550294,7,0,No,No,0
+27,Government Sector,Yes,500291,2,0,No,No,0
+27,Government Sector,Yes,500113,4,1,No,No,0
+27,Government Sector,Yes,500456,4,0,No,No,0
+27,Government Sector,Yes,750362,7,1,No,Yes,0
+27,Government Sector,Yes,750227,5,0,No,No,0
+27,Government Sector,Yes,850292,3,0,No,No,0
+27,Government Sector,Yes,850385,4,1,No,No,0
+27,Government Sector,Yes,800407,4,0,No,No,0
+27,Government Sector,Yes,850420,6,0,Yes,No,0
+27,Government Sector,Yes,850217,5,0,No,No,0
+27,Government Sector,Yes,850423,3,0,No,Yes,0
+27,Government Sector,Yes,850366,7,0,Yes,No,0
+27,Government Sector,Yes,850272,7,1,No,No,0
+27,Government Sector,Yes,850415,2,0,No,No,0
+27,Government Sector,Yes,850325,5,1,No,No,0
+27,Government Sector,Yes,850320,5,1,No,Yes,0
+27,Government Sector,Yes,900199,7,1,No,No,0
+27,Government Sector,Yes,900133,5,0,No,No,0
+27,Government Sector,Yes,900341,5,1,No,Yes,0
+27,Private Sector/Self Employed,No,1550357,6,0,Yes,No,1
+27,Private Sector/Self Employed,No,1550142,4,0,Yes,No,1
+27,Private Sector/Self Employed,No,450486,7,0,No,No,0
+27,Private Sector/Self Employed,No,350366,3,0,No,No,0
+27,Private Sector/Self Employed,No,350409,3,0,No,No,0
+27,Private Sector/Self Employed,No,450487,4,0,No,No,1
+27,Private Sector/Self Employed,No,450325,3,0,No,No,0
+27,Private Sector/Self Employed,No,450375,4,0,No,No,0
+27,Private Sector/Self Employed,No,450226,5,0,No,No,0
+27,Private Sector/Self Employed,No,450208,7,0,No,No,0
+27,Private Sector/Self Employed,No,600227,4,0,Yes,No,0
+27,Private Sector/Self Employed,No,600301,8,0,No,No,0
+27,Private Sector/Self Employed,No,800434,7,1,No,No,0
+27,Private Sector/Self Employed,No,900251,5,0,No,No,0
+27,Private Sector/Self Employed,No,850386,7,0,No,No,0
+27,Private Sector/Self Employed,No,800476,5,0,No,No,0
+28,Government Sector,No,300190,5,0,No,No,0
+28,Government Sector,No,300223,5,1,No,No,0
+28,Government Sector,Yes,1200157,5,0,No,No,1
+28,Government Sector,Yes,1200379,5,0,No,No,0
+28,Government Sector,Yes,350432,5,0,No,No,0
+28,Government Sector,Yes,300471,3,0,No,No,0
+28,Government Sector,Yes,300497,5,0,No,No,0
+28,Government Sector,Yes,355431,8,0,No,No,0
+28,Government Sector,Yes,300426,7,1,No,No,0
+28,Government Sector,Yes,300146,4,1,No,No,1
+28,Government Sector,Yes,305246,2,0,No,No,0
+28,Government Sector,Yes,350169,5,0,No,No,0
+28,Government Sector,Yes,400257,5,0,No,No,0
+28,Government Sector,Yes,450267,4,0,No,No,0
+28,Government Sector,Yes,300182,4,0,No,No,0
+28,Government Sector,Yes,300388,3,0,No,Yes,0
+28,Government Sector,Yes,300472,3,1,No,No,0
+28,Government Sector,Yes,305117,4,0,No,No,0
+28,Government Sector,Yes,300280,7,1,No,No,0
+28,Government Sector,Yes,300267,4,1,No,No,0
+28,Government Sector,Yes,300387,6,0,No,No,0
+28,Government Sector,Yes,300173,4,1,No,No,0
+28,Government Sector,Yes,300402,6,0,No,No,0
+28,Government Sector,Yes,300356,5,0,No,No,0
+28,Government Sector,Yes,300222,4,0,No,No,1
+28,Government Sector,Yes,600139,5,0,No,No,0
+28,Government Sector,Yes,600418,7,0,No,No,0
+28,Government Sector,Yes,600150,9,0,No,No,1
+28,Government Sector,Yes,600310,6,0,No,No,0
+28,Government Sector,Yes,600279,4,0,No,No,0
+28,Private Sector/Self Employed,No,555319,4,0,No,No,0
+28,Private Sector/Self Employed,No,550490,5,0,No,No,0
+28,Private Sector/Self Employed,No,550113,4,0,No,No,0
+28,Private Sector/Self Employed,No,550483,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,1005128,9,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100464,8,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100122,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100366,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100229,6,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100461,2,0,No,No,1
+28,Private Sector/Self Employed,Yes,1100139,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,1100376,6,1,No,No,0
+28,Private Sector/Self Employed,Yes,1100200,5,1,No,No,0
+28,Private Sector/Self Employed,Yes,1100470,4,1,No,No,1
+28,Private Sector/Self Employed,Yes,1100193,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100383,6,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100249,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,1100302,4,1,No,No,1
+28,Private Sector/Self Employed,Yes,1100274,6,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,1150342,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,1150215,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,1150328,6,1,No,No,0
+28,Private Sector/Self Employed,Yes,1150414,2,1,Yes,No,0
+28,Private Sector/Self Employed,Yes,1150153,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,1150295,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,1150455,6,0,No,No,0
+28,Private Sector/Self Employed,Yes,1150163,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,1150164,5,0,No,No,1
+28,Private Sector/Self Employed,Yes,1150364,6,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,1150324,8,1,No,No,0
+28,Private Sector/Self Employed,Yes,1150452,5,1,No,No,0
+28,Private Sector/Self Employed,Yes,1150461,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,1150188,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,1150368,9,0,No,No,0
+28,Private Sector/Self Employed,Yes,1200449,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,1200448,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,1200207,9,0,No,No,1
+28,Private Sector/Self Employed,Yes,1200190,5,0,No,No,1
+28,Private Sector/Self Employed,Yes,1200229,6,1,No,No,0
+28,Private Sector/Self Employed,Yes,1200278,5,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,1200138,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,1200457,4,0,Yes,No,1
+28,Private Sector/Self Employed,Yes,1200185,4,1,No,Yes,0
+28,Private Sector/Self Employed,Yes,1200478,5,1,Yes,No,0
+28,Private Sector/Self Employed,Yes,1200270,4,0,No,No,1
+28,Private Sector/Self Employed,Yes,1200306,5,0,Yes,No,1
+28,Private Sector/Self Employed,Yes,1200418,5,1,No,No,0
+28,Private Sector/Self Employed,Yes,1250364,2,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,1250336,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,1250462,6,0,No,No,0
+28,Private Sector/Self Employed,Yes,1250119,5,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,1250310,6,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,1250416,7,0,No,No,0
+28,Private Sector/Self Employed,Yes,1250209,4,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,1250286,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,1250257,5,0,No,Yes,1
+28,Private Sector/Self Employed,Yes,1300185,6,1,No,No,1
+28,Private Sector/Self Employed,Yes,1300467,2,1,No,No,0
+28,Private Sector/Self Employed,Yes,1350496,5,0,No,Yes,1
+28,Private Sector/Self Employed,Yes,1400127,2,0,No,Yes,1
+28,Private Sector/Self Employed,Yes,1400408,3,0,No,Yes,1
+28,Private Sector/Self Employed,Yes,1450447,6,0,Yes,Yes,1
+28,Private Sector/Self Employed,Yes,1450445,6,1,Yes,Yes,1
+28,Private Sector/Self Employed,Yes,500357,4,0,No,No,1
+28,Private Sector/Self Employed,Yes,500237,6,0,No,No,0
+28,Private Sector/Self Employed,Yes,500287,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,500146,9,0,No,No,1
+28,Private Sector/Self Employed,Yes,500144,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,500263,6,1,No,No,0
+28,Private Sector/Self Employed,Yes,500472,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,550505,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,550186,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,550188,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,550331,9,0,No,No,0
+28,Private Sector/Self Employed,Yes,550136,3,0,No,No,1
+28,Private Sector/Self Employed,Yes,550259,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,550467,7,0,No,No,0
+28,Private Sector/Self Employed,Yes,550120,8,1,No,No,0
+28,Private Sector/Self Employed,Yes,550127,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,600429,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,600457,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,600432,7,0,No,No,1
+28,Private Sector/Self Employed,Yes,600122,6,0,No,No,0
+28,Private Sector/Self Employed,Yes,600478,5,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,600326,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,600301,3,1,No,No,0
+28,Private Sector/Self Employed,Yes,650191,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,650387,2,1,No,No,1
+28,Private Sector/Self Employed,Yes,650151,9,0,No,No,0
+28,Private Sector/Self Employed,Yes,700171,4,1,No,No,1
+28,Private Sector/Self Employed,Yes,700497,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,700450,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,700198,2,0,No,No,0
+28,Private Sector/Self Employed,Yes,700344,4,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,700192,3,1,No,No,0
+28,Private Sector/Self Employed,Yes,700272,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,700394,7,1,No,No,0
+28,Private Sector/Self Employed,Yes,700292,8,1,Yes,No,0
+28,Private Sector/Self Employed,Yes,700267,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,700170,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,700158,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,700487,2,1,No,No,0
+28,Private Sector/Self Employed,Yes,700108,7,1,Yes,Yes,1
+28,Private Sector/Self Employed,Yes,700226,3,1,No,No,0
+28,Private Sector/Self Employed,Yes,700421,5,1,No,No,0
+28,Private Sector/Self Employed,Yes,750166,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,750361,3,0,No,No,1
+28,Private Sector/Self Employed,Yes,750338,6,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,750222,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,750404,3,0,No,No,0
+28,Private Sector/Self Employed,Yes,750287,7,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,750116,5,1,No,No,0
+28,Private Sector/Self Employed,Yes,750409,6,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,800189,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,800532,7,0,No,No,1
+28,Private Sector/Self Employed,Yes,800703,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,805485,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,850218,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,800448,4,1,No,No,0
+28,Private Sector/Self Employed,Yes,800421,3,0,No,Yes,0
+28,Private Sector/Self Employed,Yes,800259,4,0,No,No,0
+28,Private Sector/Self Employed,Yes,800340,6,0,No,Yes,1
+28,Private Sector/Self Employed,Yes,800218,6,1,Yes,No,0
+28,Private Sector/Self Employed,Yes,800415,3,0,No,Yes,0
+28,Private Sector/Self Employed,Yes,800486,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,800410,4,1,No,Yes,0
+28,Private Sector/Self Employed,Yes,800481,3,1,No,No,0
+28,Private Sector/Self Employed,Yes,800237,8,1,No,No,0
+28,Private Sector/Self Employed,Yes,800489,7,0,No,No,0
+28,Private Sector/Self Employed,Yes,800422,5,0,No,No,0
+28,Private Sector/Self Employed,Yes,800350,2,0,No,No,1
+28,Private Sector/Self Employed,Yes,800178,5,1,No,No,0
+28,Private Sector/Self Employed,Yes,800378,4,1,Yes,No,1
+28,Private Sector/Self Employed,Yes,800245,6,0,No,No,0
+28,Private Sector/Self Employed,Yes,800272,9,0,No,No,1
+28,Private Sector/Self Employed,Yes,800441,4,0,Yes,No,0
+28,Private Sector/Self Employed,Yes,900247,7,0,No,No,0
+28,Private Sector/Self Employed,Yes,900122,6,0,No,No,1
+28,Private Sector/Self Employed,Yes,900412,4,0,Yes,Yes,0
+28,Private Sector/Self Employed,Yes,900302,5,0,Yes,No,0
+29,Government Sector,Yes,600195,3,0,No,No,0
+29,Private Sector/Self Employed,Yes,1050171,3,0,No,Yes,0
+29,Private Sector/Self Employed,Yes,1050259,9,0,No,No,0
+29,Private Sector/Self Employed,Yes,1050115,6,0,No,No,0
+29,Private Sector/Self Employed,Yes,1050433,7,0,No,No,0
+29,Private Sector/Self Employed,Yes,1050243,6,0,No,Yes,0
+29,Private Sector/Self Employed,Yes,1050296,3,1,Yes,No,0
+29,Private Sector/Self Employed,Yes,1050133,4,0,Yes,No,0
+29,Private Sector/Self Employed,Yes,1050405,5,1,No,No,1
+29,Private Sector/Self Employed,Yes,1050265,5,0,No,No,0
+29,Private Sector/Self Employed,Yes,1050138,3,0,No,No,1
+29,Private Sector/Self Employed,Yes,1100287,4,1,No,Yes,1
+29,Private Sector/Self Employed,Yes,1100304,3,1,No,No,0
+29,Private Sector/Self Employed,Yes,1100318,9,1,No,No,0
+29,Private Sector/Self Employed,Yes,1100147,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,1100127,5,0,Yes,No,0
+29,Private Sector/Self Employed,Yes,1100233,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,1100479,3,0,No,No,0
+29,Private Sector/Self Employed,Yes,1100430,7,1,Yes,No,1
+29,Private Sector/Self Employed,Yes,1100279,6,0,No,No,0
+29,Private Sector/Self Employed,Yes,1100167,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,1150447,5,0,Yes,No,0
+29,Private Sector/Self Employed,Yes,1150487,4,1,No,Yes,0
+29,Private Sector/Self Employed,Yes,1150269,5,1,Yes,No,0
+29,Private Sector/Self Employed,Yes,1200358,7,0,No,No,0
+29,Private Sector/Self Employed,Yes,1200134,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,1200127,5,0,No,No,0
+29,Private Sector/Self Employed,Yes,1200179,3,0,No,No,1
+29,Private Sector/Self Employed,Yes,1200344,4,0,Yes,No,0
+29,Private Sector/Self Employed,Yes,1200449,5,1,No,No,0
+29,Private Sector/Self Employed,Yes,1200330,9,1,Yes,No,0
+29,Private Sector/Self Employed,Yes,1200274,5,0,No,No,0
+29,Private Sector/Self Employed,Yes,1200248,7,1,No,No,0
+29,Private Sector/Self Employed,Yes,1200234,7,0,No,No,1
+29,Private Sector/Self Employed,Yes,1200113,5,0,No,Yes,0
+29,Private Sector/Self Employed,Yes,1200187,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,1200384,3,0,No,No,1
+29,Private Sector/Self Employed,Yes,1350304,4,0,No,Yes,1
+29,Private Sector/Self Employed,Yes,1350494,4,0,Yes,Yes,1
+29,Private Sector/Self Employed,Yes,1350394,4,0,No,Yes,1
+29,Private Sector/Self Employed,Yes,1350153,5,1,No,Yes,1
+29,Private Sector/Self Employed,Yes,350181,7,0,No,No,0
+29,Private Sector/Self Employed,Yes,350244,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,350109,9,1,No,No,0
+29,Private Sector/Self Employed,Yes,350155,5,1,No,No,0
+29,Private Sector/Self Employed,Yes,350476,5,1,No,No,0
+29,Private Sector/Self Employed,Yes,350120,3,0,No,No,1
+29,Private Sector/Self Employed,Yes,500159,3,0,No,No,0
+29,Private Sector/Self Employed,Yes,500217,3,1,No,No,0
+29,Private Sector/Self Employed,Yes,500393,6,0,No,No,1
+29,Private Sector/Self Employed,Yes,500258,5,0,No,No,0
+29,Private Sector/Self Employed,Yes,500399,3,1,No,No,1
+29,Private Sector/Self Employed,Yes,500109,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,500169,3,0,No,No,1
+29,Private Sector/Self Employed,Yes,600296,5,0,No,No,0
+29,Private Sector/Self Employed,Yes,600478,8,1,No,No,1
+29,Private Sector/Self Employed,Yes,600113,3,0,No,No,0
+29,Private Sector/Self Employed,Yes,600465,3,1,No,No,0
+29,Private Sector/Self Employed,Yes,600297,4,1,Yes,No,0
+29,Private Sector/Self Employed,Yes,900203,7,0,Yes,No,0
+29,Private Sector/Self Employed,Yes,900286,6,0,Yes,No,1
+29,Private Sector/Self Employed,Yes,900368,6,1,No,No,0
+29,Private Sector/Self Employed,Yes,900442,9,1,No,No,1
+29,Private Sector/Self Employed,Yes,900221,4,0,Yes,No,0
+29,Private Sector/Self Employed,Yes,900294,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,900218,3,0,No,No,0
+29,Private Sector/Self Employed,Yes,900234,7,0,Yes,No,0
+29,Private Sector/Self Employed,Yes,900392,4,0,No,No,0
+29,Private Sector/Self Employed,Yes,900197,5,0,No,No,0
+30,Private Sector/Self Employed,No,1450373,5,0,Yes,Yes,1
+30,Private Sector/Self Employed,No,1450450,6,0,Yes,Yes,1
+30,Private Sector/Self Employed,No,1450124,9,0,Yes,Yes,1
+30,Private Sector/Self Employed,No,500426,3,0,No,No,0
+30,Private Sector/Self Employed,No,500378,8,0,No,No,0
+30,Private Sector/Self Employed,No,550479,6,0,Yes,Yes,0
+30,Private Sector/Self Employed,No,550457,7,0,Yes,No,0
+30,Private Sector/Self Employed,No,550223,5,0,Yes,No,1
+30,Private Sector/Self Employed,No,550373,8,0,No,No,0
+30,Private Sector/Self Employed,No,550424,4,0,No,No,0
+30,Private Sector/Self Employed,No,650123,3,0,No,No,0
+30,Private Sector/Self Employed,No,650327,3,0,No,Yes,0
+30,Private Sector/Self Employed,No,750272,3,1,No,No,1
+30,Private Sector/Self Employed,No,750144,3,1,No,No,1
+30,Private Sector/Self Employed,No,800253,9,0,No,No,0
+30,Private Sector/Self Employed,No,800145,6,0,Yes,No,0
+30,Private Sector/Self Employed,No,800206,4,0,No,No,0
+30,Private Sector/Self Employed,No,800392,3,0,No,No,0
+31,Government Sector,No,300359,9,1,No,No,0
+31,Government Sector,No,300376,4,0,No,No,0
+31,Government Sector,No,300384,3,0,No,No,0
+31,Government Sector,No,300221,3,0,No,No,0
+31,Government Sector,No,300428,4,0,No,No,0
+31,Government Sector,No,350297,3,0,No,No,0
+31,Government Sector,No,350326,2,0,No,No,0
+31,Government Sector,No,350453,6,1,No,No,0
+31,Government Sector,No,400171,3,0,No,No,0
+31,Government Sector,No,400455,4,0,No,No,0
+31,Government Sector,No,400133,4,1,No,No,0
+31,Government Sector,No,400231,5,1,No,No,0
+31,Government Sector,Yes,1200413,6,0,No,No,0
+31,Government Sector,Yes,1200455,6,1,No,No,0
+31,Government Sector,Yes,1200396,4,0,No,No,0
+31,Government Sector,Yes,1200312,5,1,No,No,0
+31,Government Sector,Yes,1200319,5,1,No,No,1
+31,Government Sector,Yes,1300332,5,0,No,No,0
+31,Government Sector,Yes,1300491,3,0,No,Yes,1
+31,Government Sector,Yes,1300224,5,1,Yes,No,1
+31,Government Sector,Yes,1300299,4,0,No,No,0
+31,Government Sector,Yes,1300499,6,0,No,No,1
+31,Government Sector,Yes,1300184,4,0,No,No,0
+31,Government Sector,Yes,1300492,4,0,No,No,0
+31,Government Sector,Yes,1500139,4,1,Yes,Yes,1
+31,Government Sector,Yes,1500177,7,0,Yes,Yes,0
+31,Government Sector,Yes,1500484,6,0,Yes,Yes,1
+31,Government Sector,Yes,400384,3,0,No,No,0
+31,Government Sector,Yes,400101,5,0,No,No,0
+31,Government Sector,Yes,400274,5,0,No,No,0
+31,Government Sector,Yes,400467,6,1,No,No,0
+31,Government Sector,Yes,400359,3,0,No,No,0
+31,Government Sector,Yes,400278,5,0,No,No,0
+31,Government Sector,Yes,400388,9,1,No,No,0
+31,Private Sector/Self Employed,Yes,1100471,3,0,No,No,0
+31,Private Sector/Self Employed,Yes,1100292,3,1,Yes,No,0
+31,Private Sector/Self Employed,Yes,1100280,4,1,No,No,0
+31,Private Sector/Self Employed,Yes,1100281,4,0,No,No,0
+31,Private Sector/Self Employed,Yes,1100259,5,0,Yes,No,0
+31,Private Sector/Self Employed,Yes,1250250,7,0,No,No,0
+31,Private Sector/Self Employed,Yes,1250123,4,1,No,No,0
+31,Private Sector/Self Employed,Yes,1250158,4,0,No,No,0
+31,Private Sector/Self Employed,Yes,1250320,4,0,No,No,0
+31,Private Sector/Self Employed,Yes,1250349,6,0,No,No,0
+31,Private Sector/Self Employed,Yes,1250185,5,0,No,No,1
+31,Private Sector/Self Employed,Yes,1250730,6,0,No,Yes,0
+31,Private Sector/Self Employed,Yes,1250391,4,0,Yes,Yes,0
+31,Private Sector/Self Employed,Yes,1255218,3,1,No,No,0
+31,Private Sector/Self Employed,Yes,1550363,3,1,No,No,0
+31,Private Sector/Self Employed,Yes,1450467,3,0,No,No,0
+31,Private Sector/Self Employed,Yes,1250416,3,0,No,No,0
+31,Private Sector/Self Employed,Yes,1250366,3,0,No,No,1
+31,Private Sector/Self Employed,Yes,1250236,3,0,No,Yes,0
+31,Private Sector/Self Employed,Yes,1250399,6,0,Yes,No,1
+31,Private Sector/Self Employed,Yes,1250312,5,1,Yes,No,0
+31,Private Sector/Self Employed,Yes,1250177,2,0,No,No,0
+31,Private Sector/Self Employed,Yes,1250391,9,1,No,No,0
+31,Private Sector/Self Employed,Yes,1250202,4,0,No,Yes,0
+31,Private Sector/Self Employed,Yes,1350107,3,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1350447,3,0,Yes,Yes,1
+31,Private Sector/Self Employed,Yes,1350338,8,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1350204,6,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1350834,5,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1355423,5,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1350399,5,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1350292,6,1,No,Yes,1
+31,Private Sector/Self Employed,Yes,1400227,6,1,No,Yes,0
+31,Private Sector/Self Employed,Yes,1400166,6,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1400402,7,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1400171,2,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1400414,3,0,No,Yes,1
+31,Private Sector/Self Employed,Yes,1400380,3,0,Yes,Yes,1
+31,Private Sector/Self Employed,Yes,1400463,6,1,No,Yes,0
+31,Private Sector/Self Employed,Yes,1650250,7,1,Yes,No,1
+31,Private Sector/Self Employed,Yes,1650439,2,0,Yes,No,1
+31,Private Sector/Self Employed,Yes,1750176,4,0,No,No,0
+31,Private Sector/Self Employed,Yes,500218,3,1,No,No,1
+31,Private Sector/Self Employed,Yes,500305,4,0,No,No,0
+31,Private Sector/Self Employed,Yes,500279,6,1,No,No,0
+31,Private Sector/Self Employed,Yes,900426,3,0,No,No,0
+31,Private Sector/Self Employed,Yes,900267,8,0,No,Yes,0
+31,Private Sector/Self Employed,Yes,950494,5,1,No,No,0
+31,Private Sector/Self Employed,Yes,950257,4,1,No,No,1
+31,Private Sector/Self Employed,Yes,950428,5,0,No,No,0
+31,Private Sector/Self Employed,Yes,950290,7,0,Yes,No,0
+31,Private Sector/Self Employed,Yes,950375,5,0,Yes,Yes,0
+32,Government Sector,Yes,1750190,6,0,No,No,0
+32,Government Sector,Yes,350300,6,0,No,No,0
+32,Government Sector,Yes,350392,7,0,No,No,0
+32,Government Sector,Yes,350465,9,1,No,No,0
+32,Government Sector,Yes,350361,5,0,No,No,0
+32,Government Sector,Yes,350141,7,0,No,No,0
+32,Government Sector,Yes,350193,6,1,No,No,0
+32,Government Sector,Yes,350874,9,1,No,No,0
+32,Government Sector,Yes,350150,4,1,No,No,0
+32,Government Sector,Yes,350423,6,0,No,No,0
+32,Government Sector,Yes,350170,6,0,No,No,0
+32,Government Sector,Yes,350302,2,0,No,No,0
+32,Government Sector,Yes,800474,6,0,No,No,1
+32,Government Sector,Yes,800343,3,0,Yes,No,1
+32,Government Sector,Yes,800427,4,0,No,No,0
+32,Government Sector,Yes,800414,6,0,No,No,0
+32,Government Sector,Yes,800310,6,0,Yes,No,0
+32,Government Sector,Yes,800288,6,1,No,No,0
+32,Government Sector,Yes,800472,5,0,No,No,0
+32,Government Sector,Yes,800336,7,1,No,No,0
+32,Government Sector,Yes,800439,4,0,No,No,0
+32,Government Sector,Yes,800257,2,1,No,No,0
+32,Government Sector,Yes,800422,5,1,No,No,1
+32,Government Sector,Yes,800383,6,1,No,No,1
+32,Government Sector,Yes,800217,4,0,Yes,Yes,0
+32,Government Sector,Yes,800326,5,0,Yes,No,0
+32,Government Sector,Yes,800215,5,0,Yes,No,0
+32,Government Sector,Yes,850420,6,0,No,No,1
+32,Government Sector,Yes,850375,5,1,No,No,0
+32,Government Sector,Yes,850703,3,0,No,No,0
+32,Government Sector,Yes,850112,7,0,No,No,0
+32,Government Sector,Yes,850408,6,0,No,No,0
+32,Government Sector,Yes,850466,9,0,No,No,0
+32,Government Sector,Yes,850469,7,0,No,No,1
+32,Government Sector,Yes,900347,6,1,No,No,0
+32,Government Sector,Yes,900360,4,0,No,No,0
+32,Government Sector,Yes,900214,4,0,Yes,No,0
+32,Government Sector,Yes,900476,5,1,No,No,1
+33,Government Sector,No,400282,4,0,No,No,0
+33,Government Sector,Yes,1000114,4,0,No,No,0
+33,Government Sector,Yes,1000394,5,0,Yes,No,0
+33,Government Sector,Yes,1000486,4,0,No,Yes,0
+33,Government Sector,Yes,1100313,4,0,No,No,1
+33,Government Sector,Yes,1100461,5,0,No,No,0
+33,Government Sector,Yes,1100240,5,0,No,No,0
+33,Government Sector,Yes,400246,4,0,No,No,0
+33,Government Sector,Yes,400110,3,0,No,No,0
+33,Government Sector,Yes,400267,5,1,No,No,0
+33,Government Sector,Yes,400287,3,1,No,No,1
+33,Government Sector,Yes,400171,5,1,No,No,0
+33,Government Sector,Yes,600145,3,0,No,Yes,0
+33,Government Sector,Yes,650448,6,1,No,No,1
+33,Government Sector,Yes,650500,4,0,No,No,1
+33,Government Sector,Yes,650199,5,1,No,No,1
+33,Government Sector,Yes,650230,5,1,No,No,1
+33,Government Sector,Yes,700479,7,0,Yes,No,1
+33,Government Sector,Yes,800226,6,0,No,No,1
+33,Government Sector,Yes,800371,3,0,Yes,No,0
+33,Government Sector,Yes,800190,6,0,No,No,1
+33,Private Sector/Self Employed,Yes,1400378,9,0,Yes,Yes,1
+33,Private Sector/Self Employed,Yes,1400321,5,0,No,Yes,1
+33,Private Sector/Self Employed,Yes,1400297,4,0,Yes,Yes,0
+33,Private Sector/Self Employed,Yes,1400159,5,0,Yes,Yes,0
+33,Private Sector/Self Employed,Yes,1400189,6,0,Yes,Yes,1
+33,Private Sector/Self Employed,Yes,1400450,4,1,No,Yes,1
+33,Private Sector/Self Employed,Yes,1400278,6,1,No,Yes,1
+33,Private Sector/Self Employed,Yes,1400217,4,0,No,Yes,1
+33,Private Sector/Self Employed,Yes,1400415,6,1,No,Yes,1
+33,Private Sector/Self Employed,Yes,1400463,8,1,No,Yes,1
+33,Private Sector/Self Employed,Yes,1500214,5,1,Yes,Yes,1
+33,Private Sector/Self Employed,Yes,1500326,3,1,Yes,Yes,1
+33,Private Sector/Self Employed,Yes,1500190,4,1,Yes,Yes,1
+33,Private Sector/Self Employed,Yes,550165,5,0,No,No,1
+33,Private Sector/Self Employed,Yes,550195,4,0,Yes,No,0
+33,Private Sector/Self Employed,Yes,550111,4,1,No,No,0
+33,Private Sector/Self Employed,Yes,550460,5,0,No,No,0
+33,Private Sector/Self Employed,Yes,550165,5,0,No,No,1
+33,Private Sector/Self Employed,Yes,550416,5,0,Yes,No,0
+33,Private Sector/Self Employed,Yes,550130,3,1,No,No,1
+33,Private Sector/Self Employed,Yes,550134,4,0,No,No,1
+33,Private Sector/Self Employed,Yes,750318,4,0,No,No,0
+33,Private Sector/Self Employed,Yes,750200,2,1,No,No,0
+34,Government Sector,Yes,1100500,2,0,No,No,0
+34,Government Sector,Yes,1100337,3,0,No,No,1
+34,Government Sector,Yes,1300247,4,0,No,No,0
+34,Government Sector,Yes,1300484,6,0,No,Yes,1
+34,Government Sector,Yes,1300431,4,1,No,No,0
+34,Government Sector,Yes,1300386,9,1,No,No,1
+34,Government Sector,Yes,1300329,4,0,No,No,0
+34,Government Sector,Yes,1300497,6,0,No,No,1
+34,Government Sector,Yes,1300121,5,1,No,Yes,0
+34,Government Sector,Yes,1300103,7,1,No,Yes,1
+34,Government Sector,Yes,1300291,3,0,No,No,0
+34,Private Sector/Self Employed,No,1300351,4,0,No,No,0
+34,Private Sector/Self Employed,No,1300136,6,0,Yes,No,1
+34,Private Sector/Self Employed,No,1300222,5,0,Yes,No,1
+34,Private Sector/Self Employed,No,1300479,5,1,No,No,0
+34,Private Sector/Self Employed,No,1400106,5,1,No,Yes,1
+34,Private Sector/Self Employed,No,1400486,3,1,No,Yes,1
+34,Private Sector/Self Employed,No,1400194,7,1,No,Yes,1
+34,Private Sector/Self Employed,No,950490,4,0,Yes,No,1
+34,Private Sector/Self Employed,Yes,1000122,4,0,No,No,0
+34,Private Sector/Self Employed,Yes,1000259,4,0,No,No,0
+34,Private Sector/Self Employed,Yes,1000160,7,0,No,No,1
+34,Private Sector/Self Employed,Yes,1000163,5,0,Yes,No,0
+34,Private Sector/Self Employed,Yes,1000268,6,0,Yes,No,1
+34,Private Sector/Self Employed,Yes,1000447,2,0,No,No,0
+34,Private Sector/Self Employed,Yes,1000371,4,0,No,No,0
+34,Private Sector/Self Employed,Yes,1000387,5,0,No,No,0
+34,Private Sector/Self Employed,Yes,1000386,3,1,No,No,0
+34,Private Sector/Self Employed,Yes,1000158,6,1,No,No,1
+34,Private Sector/Self Employed,Yes,1000212,9,0,No,No,0
+34,Private Sector/Self Employed,Yes,1000814,4,0,No,No,1
+34,Private Sector/Self Employed,Yes,1000207,5,0,No,No,0
+34,Private Sector/Self Employed,Yes,1000390,5,1,No,No,0
+34,Private Sector/Self Employed,Yes,1000182,9,1,No,No,0
+34,Private Sector/Self Employed,Yes,1005469,6,0,No,No,1
+34,Private Sector/Self Employed,Yes,1000376,4,0,No,No,1
+34,Private Sector/Self Employed,Yes,1050286,5,1,No,No,0
+34,Private Sector/Self Employed,Yes,1050436,5,0,No,No,0
+34,Private Sector/Self Employed,Yes,1050377,3,0,No,No,0
+34,Private Sector/Self Employed,Yes,1050241,6,0,No,No,1
+34,Private Sector/Self Employed,Yes,1050116,5,0,No,No,0
+34,Private Sector/Self Employed,Yes,1050112,8,0,No,No,1
+34,Private Sector/Self Employed,Yes,1050263,7,0,Yes,No,1
+34,Private Sector/Self Employed,Yes,1300188,6,1,No,No,0
+34,Private Sector/Self Employed,Yes,1300331,6,0,No,No,1
+34,Private Sector/Self Employed,Yes,1300205,3,0,Yes,No,0
+34,Private Sector/Self Employed,Yes,1300364,6,0,Yes,No,0
+34,Private Sector/Self Employed,Yes,1300486,5,0,No,No,0
+34,Private Sector/Self Employed,Yes,1300196,4,0,No,No,0
+34,Private Sector/Self Employed,Yes,1300306,3,0,No,No,0
+34,Private Sector/Self Employed,Yes,1300293,7,0,No,No,1
+34,Private Sector/Self Employed,Yes,1300168,4,1,No,No,1
+34,Private Sector/Self Employed,Yes,1300171,4,0,No,No,0
+34,Private Sector/Self Employed,Yes,1300347,5,1,No,No,0
+34,Private Sector/Self Employed,Yes,1300174,5,1,No,No,1
+34,Private Sector/Self Employed,Yes,1500326,2,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500289,3,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500274,7,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500135,5,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500772,5,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1505280,6,1,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500375,4,1,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1550479,5,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500287,4,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500220,4,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500245,7,1,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,1500137,4,1,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,500334,5,0,No,No,0
+34,Private Sector/Self Employed,Yes,500363,3,0,No,No,0
+34,Private Sector/Self Employed,Yes,500373,3,0,No,No,0
+34,Private Sector/Self Employed,Yes,500381,7,0,No,No,1
+34,Private Sector/Self Employed,Yes,500171,6,0,No,No,1
+34,Private Sector/Self Employed,Yes,500403,5,0,No,No,0
+34,Private Sector/Self Employed,Yes,500179,4,1,No,No,1
+34,Private Sector/Self Employed,Yes,700447,6,0,No,No,1
+34,Private Sector/Self Employed,Yes,700242,3,0,No,No,0
+34,Private Sector/Self Employed,Yes,700307,6,0,Yes,Yes,1
+34,Private Sector/Self Employed,Yes,700325,4,0,No,No,0
+34,Private Sector/Self Employed,Yes,700354,4,1,No,No,0
+34,Private Sector/Self Employed,Yes,700349,5,1,No,Yes,0
+34,Private Sector/Self Employed,Yes,700365,6,0,Yes,No,1
+34,Private Sector/Self Employed,Yes,700102,7,0,No,No,0
+34,Private Sector/Self Employed,Yes,700302,4,0,No,No,0
+34,Private Sector/Self Employed,Yes,850338,3,1,No,Yes,0
+34,Private Sector/Self Employed,Yes,850433,5,0,No,No,1
+34,Private Sector/Self Employed,Yes,850349,3,1,No,No,0
+34,Private Sector/Self Employed,Yes,850246,3,1,No,No,0
+34,Private Sector/Self Employed,Yes,850349,4,0,No,No,1
+35,Government Sector,Yes,1100132,5,0,No,No,0
+35,Government Sector,Yes,1100385,4,0,No,No,0
+35,Government Sector,Yes,1100232,6,0,No,No,1
+35,Government Sector,Yes,1100458,4,1,No,No,0
+35,Government Sector,Yes,900499,4,1,No,No,1
+35,Government Sector,Yes,900271,3,1,No,No,0
+35,Private Sector/Self Employed,No,800267,4,0,No,Yes,0
+35,Private Sector/Self Employed,No,800295,2,0,No,No,0
+35,Private Sector/Self Employed,No,800156,5,0,No,No,0
+35,Private Sector/Self Employed,No,800220,3,0,Yes,No,1
+35,Private Sector/Self Employed,No,800328,7,1,No,No,1
+35,Private Sector/Self Employed,No,800119,7,1,No,No,1
+35,Private Sector/Self Employed,No,800252,5,0,No,No,0
+35,Private Sector/Self Employed,No,800294,6,0,Yes,No,1
+35,Private Sector/Self Employed,No,800147,6,1,No,No,1
+35,Private Sector/Self Employed,No,800200,7,1,No,Yes,1
+35,Private Sector/Self Employed,No,800163,5,0,No,No,0
+35,Private Sector/Self Employed,No,800317,6,0,No,No,1
+35,Private Sector/Self Employed,No,800222,4,0,No,No,0
+35,Private Sector/Self Employed,No,800490,6,0,No,No,1
+35,Private Sector/Self Employed,No,800411,3,0,No,No,1
+35,Private Sector/Self Employed,No,800251,4,0,No,No,0
